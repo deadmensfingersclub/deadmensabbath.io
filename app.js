@@ -78,7 +78,7 @@ const pages = {
 
         <div class="regulation-item">
           <div class="regulation-label">D</div>
-          <div class="regulation-body">방송통신심의위원회 Safenet 등급을 기준으로 <strong>노출 2등급, 성행위 2등급, 폭력 4등급, 언어 4등급의 표현 수위</strong>를 따릅니다. 폭력과 언어가 4등급에 해당하나, '수프커(수위 프리 커뮤)' 또는 '떡커'와는 다른 장르를 지향합니다. 특히 <strong>일간베스트나 소라넷 등 특정 커뮤니티에서 발발한 2차 가해 표현 및 성범죄 암시 단어의 사용을 금지</strong>하는 점 유의 바랍니다.</div>
+          <div class="regulation-body">방송통신심의위원회 Safenet 등급을 기준으로 <strong>노출 2등급, 성행위 2등급, 폭력 4등급, 언어 4등급의 표현 수위</strong>를 따릅니다. 폭력과 언어가 4등급에 해당하나, ‘수프커(수위 프리 커뮤)’ 또는 ‘떡커’와는 다른 장르를 지향합니다. 특히 <strong>일간베스트나 소라넷 등 특정 커뮤니티에서 발발한 2차 가해 표현 및 성범죄 암시 단어의 사용을 금지</strong>하는 점 유의 바랍니다.</div>
         </div>
 
         <div class="regulation-item">
