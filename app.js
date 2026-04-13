@@ -143,7 +143,7 @@ const pages = {
           <div class="regulation-label">J</div>
           <div class="regulation-body">
             질문 및 건의 사항은 오픈 채팅으로 연락 부탁드립니다. (9:00 a.m. ~ 12:00 a.m.)
-            <br><a href="https://open.kakao.com/o/sewfH6pi" target="_blank" rel="noopener noreferrer" class="kakao-btn">💬 카카오 오픈채팅 연결</a>
+            <br><a href="https://open.kakao.com/o/sewfH6pi" target="_blank" rel="noopener noreferrer" class="kakao-btn" style="text-decoration: none;">💬 카카오 오픈채팅 연결</a>
           </div>
         </div>
 
@@ -175,17 +175,17 @@ const pages = {
         <p class="chapter-heading">▸ Chapters</p>
         <div class="chapter-links">
           <a href="#" class="chapter-link" data-page="worldview">
-            <span class="chapter-link-icon">📜</span>
-            <span>
+            <span class="chapter-link-icon" style="text-decoration: none;">📜</span>
+            <span style="text-decoration: none;">
               Nevermore Academy
-              <span class="chapter-link-label">세계관으로 이동</span>
+              <span class="chapter-link-label" style="text-decoration: none;">세계관으로 이동</span>
             </span>
           </a>
           <a href="#" class="chapter-link" data-page="application">
-            <span class="chapter-link-icon">✒️</span>
-            <span>
+            <span class="chapter-link-icon" style="text-decoration: none;">✒️</span>
+            <span style="text-decoration: none;">
               Club Registration Form
-              <span class="chapter-link-label">신청서 양식으로 이동</span>
+              <span class="chapter-link-label" style="text-decoration: none;">신청서 양식으로 이동</span>
             </span>
           </a>
         </div>
@@ -316,7 +316,7 @@ const pages = {
       </p>
 
       <a href="https://docs.google.com/document/d/1bCQBZxYZ-t5yv_zcUneWABcZnKEgoFqq2kUd_bv0XA8/copy?usp=sharing"
-         target="_blank" rel="noopener noreferrer" class="app-btn app-btn-orange">
+         target="_blank" rel="noopener noreferrer" class="app-btn app-btn-orange" style="text-decoration: none;">
         ✒️ 신청서 양식 사본 만들기
       </a>
 
@@ -396,7 +396,7 @@ const pages = {
       <span class="field-label">[성인인증]</span>
       <p class="field-body">아래 첨부된 링크 도서의 ISBN 마지막 4자리를 기입해 주세요.</p>
       <a href="https://ridibooks.com/books/2284000005?_s=search&amp;_q=%EB%B6%88%EC%9A%B0%ED%95%9C+%EC%82%B6&amp;_rdt_sid=SearchBookListWithTab"
-         target="_blank" rel="noopener noreferrer" class="app-btn">
+         target="_blank" rel="noopener noreferrer" class="app-btn" style="text-decoration: none;">
         📖 도서링크
       </a>
     </div>
