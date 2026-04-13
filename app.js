@@ -97,16 +97,21 @@ const pages = {
 
         <div class="regulation-item">
           <div class="regulation-label">G</div>
-          <div class="regulation-body">예정된 러닝 인원은 <strong>최소 16명, 최대 20명</strong>입니다. 인원이 많지 않은 만큼 중도 하차 및 잠수는 지양 부탁드립니다.</div>
+          <div class="regulation-body">커뮤니티 정비 및 내부 인원의 휴식을 위하여 <strong>5월 6일과 5월 12일 이틀간 안식일</strong>을 가집니다. 해당 일자에는 개인 로그 업로드를 제외한 모든 활동이 불가합니다. 아울러 새벽 타임라인 대화를 통한 특정 무리 형성 방지를 위해 <strong>매일 새벽 1시부터 아침 6시까지 퍼블릭 트윗 게시를 금지</strong>합니다. 기존 대화와 개인 로그 업로드는 가능합니다.</div>
         </div>
 
         <div class="regulation-item">
           <div class="regulation-label">H</div>
-          <div class="regulation-body">커뮤니티에서 하차 또는 제명된 캐릭터와의 연락처 공유는 불가합니다. <strong>엔딩 후 2주 동안</strong> 캐릭터 간 상호 독점적 관계 설정을 금지합니다. 또한 TRPG, 밋짓시, 디스코드 소통, 짤 교환 등 일부 인원만 참여하거나 특정 러너가 소외감을 느낄 수 있는 행위 역시 허용되지 않습니다. (<strong>~2026.05.29. 11:59 p.m.</strong>)</div>
+          <div class="regulation-body">예정된 러닝 인원은 <strong>최소 16명, 최대 20명</strong>입니다. 인원이 많지 않은 만큼 중도 하차 및 잠수는 지양 부탁드립니다.</div>
         </div>
 
         <div class="regulation-item">
           <div class="regulation-label">I</div>
+          <div class="regulation-body">커뮤니티에서 하차 또는 제명된 캐릭터와의 연락처 공유는 불가합니다. <strong>엔딩 후 2주 동안</strong> 캐릭터 간 상호 독점적 관계 설정을 금지합니다. 또한 TRPG, 밋짓시, 디스코드 소통, 짤 교환 등 일부 인원만 참여하거나 특정 러너가 소외감을 느낄 수 있는 행위 역시 허용되지 않습니다. (<strong>~2026.05.29. 11:59 p.m.</strong>)</div>
+        </div>
+
+        <div class="regulation-item">
+          <div class="regulation-label">J</div>
           <div class="regulation-body">
             <strong>2회 경고</strong> 시 커뮤니티에서 <strong>제명</strong> 처리합니다. 아래의 경고 및 제명 사항 안내표를 참고하시어 러닝 중 불이익이 없도록 유의하시길 바랍니다.
             <div class="rule-lists-grid">
@@ -140,7 +145,7 @@ const pages = {
         </div>
 
         <div class="regulation-item">
-          <div class="regulation-label">J</div>
+          <div class="regulation-label">K</div>
           <div class="regulation-body">
             질문 및 건의 사항은 오픈 채팅으로 연락 부탁드립니다. (9:00 a.m. ~ 12:00 a.m.)
             <br><a href="https://open.kakao.com/o/sewfH6pi" target="_blank" rel="noopener noreferrer" class="kakao-btn" style="text-decoration: none;">💬 카카오 오픈채팅 연결</a>
