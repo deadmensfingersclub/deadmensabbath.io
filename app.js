@@ -174,14 +174,14 @@ const pages = {
       <div class="chapter-section">
         <p class="chapter-heading">▸ Chapters</p>
         <div class="chapter-links">
-          <a href="#" class="chapter-link" data-page="worldview">
+          <a href="#" class="chapter-link" data-page="worldview" style="text-decoration: none;">
             <span class="chapter-link-icon" style="text-decoration: none;">📜</span>
             <span style="text-decoration: none;">
               Nevermore Academy
               <span class="chapter-link-label" style="text-decoration: none;">세계관으로 이동</span>
             </span>
           </a>
-          <a href="#" class="chapter-link" data-page="application">
+          <a href="#" class="chapter-link" data-page="application" style="text-decoration: none;">
             <span class="chapter-link-icon" style="text-decoration: none;">✒️</span>
             <span style="text-decoration: none;">
               Club Registration Form
@@ -313,6 +313,11 @@ const pages = {
         신청서 제목은 [ 캐릭터 이름｜나이｜기숙사｜별종 ] 로 통일합니다.<br>
         파란색 글씨는 신청서 제출 전 모두 삭제해 주세요.
       </p>
+
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdrEgRTgwnmGvK-1Ju5QmfsaqcfuIOxsYuZ890Cld_c1x93ng/viewform"
+         target="_blank" rel="noopener noreferrer" class="app-btn app-btn-orange" style="text-decoration: none;">
+        💌 신청서 접수하러 가기
+      </a>
 
       <a href="https://docs.google.com/document/d/1bCQBZxYZ-t5yv_zcUneWABcZnKEgoFqq2kUd_bv0XA8/copy?usp=sharing"
          target="_blank" rel="noopener noreferrer" class="app-btn app-btn-orange" style="text-decoration: none;">
