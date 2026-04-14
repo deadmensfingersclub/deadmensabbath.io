@@ -68,21 +68,31 @@ const pages = {
 
         <div class="regulation-item">
           <div class="regulation-label">B</div>
-          <div class="regulation-body">본 커뮤니티는 <strong>2차 지인제</strong>로 <strong>2007년 이전 출생자만 신청서 제출</strong>이 가능합니다. 오너 연령 속임, 신원 사칭, 아이디 도용 등을 금지하며 적발 시 사전 고지 없이 즉시 제명 처리합니다. 제명 대상자는 커뮤니티에서 처음부터 존재하지 않았던 캐릭터로 취급하며 연락처 공유와 애프터 참여가 불가합니다.</div>
+          <div class="regulation-body">커뮤니티 스토리 내에서는 인종, 젠더, 성적 지향 등에 따른 현실적인 차별 요소가 등장하지 않습니다. 다만, 원작 〈웬즈데이〉의 설정인 <strong>‘평범이’에 의한 ‘별종’ 차별</strong>은 다룹니다.</n>아울러 시대적 배경을 고려했을 때, 공식 스토리 외에 러너 캐릭터의 설정이나 활동 기간 내 RP 과정에서는 앞서 언급한 현실적 차별 요소가 서사를 위해 부분적으로 인용되거나 다뤄질 수 있습니다. 묘사의 수위는 러너분들의 자율적인 재량에 맡기나, <strong>신청서 트리거 워닝 표기나 RP 전 DM을 통한 충분한 사전 협의</strong>를 당부드립니다.</div>
         </div>
 
         <div class="regulation-item">
           <div class="regulation-label">C</div>
-          <div class="regulation-body">커뮤니티 스토리 진행 과정에서 <strong>캐릭터의 성격이나 가치관, 특성이 변질</strong>되거나 <strong>통제 불가능한 상황</strong>에 놓일 수 있으며, 이에 대한 수용이 어려운 경우 참여를 권장하지 않습니다. <strong>캐릭터 변이 요소를 감안할 수 있는 분</strong>에 한해 지원 바랍니다.</div>
+          <div class="regulation-body">본 커뮤니티는 <strong>2차 지인제</strong>로 <strong>2007년 이전 출생자만 신청서 제출</strong>이 가능합니다. 오너 연령 속임, 신원 사칭, 아이디 도용 등을 금지하며 적발 시 사전 고지 없이 즉시 제명 처리합니다. 제명 대상자는 커뮤니티에서 처음부터 존재하지 않았던 캐릭터로 취급하며 연락처 공유와 애프터 참여가 불가합니다.</div>
         </div>
 
         <div class="regulation-item">
           <div class="regulation-label">D</div>
-          <div class="regulation-body">방송통신심의위원회 Safenet 등급을 기준으로 <strong>노출 2등급, 성행위 2등급, 폭력 4등급, 언어 4등급의 표현 수위</strong>를 따릅니다. 폭력과 언어가 4등급에 해당하나, ‘수프커(수위 프리 커뮤)’ 또는 ‘떡커’와는 다른 장르를 지향합니다. 특히 <strong>일간베스트나 소라넷 등 특정 커뮤니티에서 발발한 2차 가해 표현 및 성범죄 암시 단어의 사용을 금지</strong>하는 점 유의 바랍니다.</div>
+          <div class="regulation-body">관계가 깨끗한 캐릭터만 재활용할 수 있으며, 선관은 허용하지 않습니다.</div>
         </div>
 
         <div class="regulation-item">
           <div class="regulation-label">E</div>
+          <div class="regulation-body">커뮤니티 스토리 진행 과정에서 <strong>캐릭터의 성격이나 가치관, 특성이 변질</strong>되거나 <strong>통제 불가능한 상황</strong>에 놓일 수 있으며, 이에 대한 수용이 어려운 경우 참여를 권장하지 않습니다. <strong>캐릭터 변이 요소를 감안할 수 있는 분</strong>에 한해 지원 바랍니다.</div>
+        </div>
+
+        <div class="regulation-item">
+          <div class="regulation-label">F</div>
+          <div class="regulation-body">방송통신심의위원회 Safenet 등급을 기준으로 <strong>노출 2등급, 성행위 2등급, 폭력 4등급, 언어 4등급의 표현 수위</strong>를 따릅니다. 폭력과 언어가 4등급에 해당하나, ‘수프커(수위 프리 커뮤)’ 또는 ‘떡커’와는 다른 장르를 지향합니다. 특히 <strong>일간베스트나 소라넷 등 특정 커뮤니티에서 발발한 2차 가해 표현 및 성범죄 암시 단어의 사용을 금지</strong>하는 점 유의 바랍니다.</div>
+        </div>
+
+        <div class="regulation-item">
+          <div class="regulation-label">G</div>
           <div class="regulation-body">
             <strong>로그 형태는 글·그림 모두 허용</strong>하나, 캐릭터 인장은 <strong>분위기 인장만 가능</strong>합니다.
             <span class="regulation-sub">가능: 사람의 신체 일부, 사람의 실루엣, 동물, 사물, 풍경, 단색 등</span>
@@ -91,27 +101,33 @@ const pages = {
         </div>
 
         <div class="regulation-item">
-          <div class="regulation-label">F</div>
+          <div class="regulation-label">H</div>
           <div class="regulation-body">자캐 커뮤니티가 <strong>처음이신 경우에도 신청서 제출이 가능</strong>합니다. 다만 원활한 진행을 위해 기본 용어 및 시스템을 사전에 숙지해 주시기 바라며, 그 외 문의 사항은 언제든 편히 공식 창구로 문의 부탁드립니다.</div>
         </div>
 
         <div class="regulation-item">
-          <div class="regulation-label">G</div>
+          <div class="regulation-label">I</div>
           <div class="regulation-body">커뮤니티 정비 및 내부 인원의 휴식을 위하여 <strong>5월 6일과 5월 12일 이틀간 안식일</strong>을 가집니다. 해당 일자에는 개인 로그 업로드를 제외한 모든 활동이 불가합니다. 아울러 새벽 타임라인 대화를 통한 특정 무리 형성 방지를 위해 <strong>매일 새벽 1시부터 아침 6시까지 퍼블릭 트윗 게시를 금지</strong>합니다. 기존 대화와 개인 로그 업로드는 가능합니다.</div>
         </div>
 
         <div class="regulation-item">
-          <div class="regulation-label">H</div>
+          <div class="regulation-label">J</div>
           <div class="regulation-body">예정된 러닝 인원은 <strong>최소 16명, 최대 20명</strong>입니다. 인원이 많지 않은 만큼 중도 하차 및 잠수는 지양 부탁드립니다.</div>
         </div>
 
         <div class="regulation-item">
-          <div class="regulation-label">I</div>
-          <div class="regulation-body">커뮤니티에서 하차 또는 제명된 캐릭터와의 연락처 공유는 불가합니다. <strong>엔딩 후 2주 동안</strong> 캐릭터 간 상호 독점적 관계 설정을 금지합니다. 또한 TRPG, 밋짓시, 디스코드 소통, 짤 교환 등 일부 인원만 참여하거나 특정 러너가 소외감을 느낄 수 있는 행위 역시 허용되지 않습니다. (<strong>~2026.05.29. 11:59 p.m.</strong>)</div>
+          <div class="regulation-label">K</div>
+          <div class="regulation-body">모두가 즐겁게 러닝하고 원활하게 운영될 수 있도록 서로 존중하는 마음을 가져주시길 바랍니다. 만약 RP 중 러너 간에 큰 감정싸움이나 분쟁이 발생할 우려가 있다면, 총괄계를 포함한 DM을 통해 조율을 진행해 주시길 부탁드립니다.</div>
         </div>
 
         <div class="regulation-item">
-          <div class="regulation-label">J</div>
+          <div class="regulation-label">L</div>
+          <div class="regulation-body">커뮤니티에서 하차 또는 제명된 캐릭터와의 연락처 공유는 불가합니다. <strong>엔딩 후 2주 동안</strong> 캐릭터 간 상호 독점적 관계 설정을 금지합니다. 또한 TRPG, 밋짓시, 디스코드 소통, 짤 교환 등 일부 인원만 참여하거나 특정 러너가 소외감을 느낄 수 있는 행위 역시 허용되지 않습니다. (<strong>~2026.05.29. 11:59 p.m.</strong>)</div>
+        </div>
+      
+
+        <div class="regulation-item">
+          <div class="regulation-label">M</div>
           <div class="regulation-body">
             <strong>2회 경고</strong> 시 커뮤니티에서 <strong>제명</strong> 처리합니다. 아래의 경고 및 제명 사항 안내표를 참고하시어 러닝 중 불이익이 없도록 유의하시길 바랍니다.
             <div class="rule-lists-grid">
@@ -145,7 +161,7 @@ const pages = {
         </div>
 
         <div class="regulation-item">
-          <div class="regulation-label">K</div>
+          <div class="regulation-label">N</div>
           <div class="regulation-body">
             질문 및 건의 사항은 오픈 채팅으로 연락 부탁드립니다. (9:00 a.m. ~ 12:00 a.m.)
             <br><a href="https://open.kakao.com/o/sewfH6pi" target="_blank" rel="noopener noreferrer" class="kakao-btn" style="text-decoration: none;">💬 카카오 오픈채팅 연결</a>
